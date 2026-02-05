@@ -1,0 +1,10 @@
+﻿{
+  "required_token": "main_work",
+  "artifacts": [
+    {
+      "path": "data/output.json",
+      "type": "json",
+      "required_keys": ["status"]
+    }
+  ]
+}

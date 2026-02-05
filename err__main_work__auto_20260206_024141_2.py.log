@@ -1,0 +1,4 @@
+  File "C:\my_project\src\my_project\candidates\main_work__auto_20260206_024141_2.py", line 12
+    print('main_work ?¤í–‰??)
+          ^
+SyntaxError: unterminated string literal (detected at line 12)
